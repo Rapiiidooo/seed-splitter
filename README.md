@@ -71,6 +71,10 @@ Decrypted Seed Phrase:
 # Your decrypted seed phrase will be displayed here
 ```
 
+The files used for the decryption must be using the following pattern : seed-<i>.txt
+
+eg: seed-1.txt and seed-2.txt for using two separated files.
+
 ## Security
 - **Passwords**: Ensure you use strong and unique passwords.
 - **Storage**: Never share your encrypted files or passwords.
